@@ -1,0 +1,6 @@
+!unzip "drive/MyDrive/Dog Vision/dog-breed-identification.zip" -d "drive/MyDrive/Dog Vision/"
+
+======================================================================================
+
+# Activate your GPU
+Runtime => Change runtime => Hardware Accelerator: GPU

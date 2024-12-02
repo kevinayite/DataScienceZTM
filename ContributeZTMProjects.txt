@@ -1,0 +1,17 @@
+Exercise: Contribute To Open Source
+If you haven't done so already, it is time to contribute to your first open source project!
+
+
+The contribution can be as big as a new feature, or as small as fixing a typo in the README.md file. Here is what we are going to do:
+
+
+
+1. Join our Discord community (see Lecture 2 of this course).
+
+2. Read this step by step guide by selecting "Open Source Projects".
+
+3. If you have trouble with the steps above, watch this video and follow 
+along to make your first contribution (and follow the ZTM youtube channel for weekly tip videos):
+ How To Get Started With Open Source | Make Your First Contribution.(https://www.youtube.com/watch?v=uQLNFRviB6Q)
+
+4. In order to see the Zero to Mastery Icon in your Github profile, follow this: https://help.github.com/articles/publicizing-or-hiding-organization-membership/.

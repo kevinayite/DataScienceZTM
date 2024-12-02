@@ -1,0 +1,19 @@
+https://matplotlib.org/stable/users/index.html
+
+https://matplotlib.org/stable/tutorials/lifecycle.html#sphx-glr-tutorials-lifecycle-py
+
+https://matplotlib.org/stable/index.html
+
+https://pandas.pydata.org/pandas-docs/stable/user_guide/visualization.html
+
+
+
+# Regular expression
+https://regexone.com/
+
+
+# Documentation on linestyles 
+https://matplotlib.org/stable/gallery/lines_bars_and_markers/linestyles.html
+
+====================================================================================================================
+

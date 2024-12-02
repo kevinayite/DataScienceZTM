@@ -1,0 +1,66 @@
+why scikit learn?
+-> Built on Numpy and matplotlib (and python)
+-> Has many in-built machine learning models
+-> Methods to evaluate your machine learning models
+-> Very well designed API
+
+---------------------------------------------------------
+
+https://scikit-learn.org/stable/user_guide.html
+-----------------------------------------------------------
+
+				Machine Learning 
+
+# Introduction to Scikit-Learn(sklearn)
+This notebook demonstrates some of the most useful functions of the beautiful Scikit_Learn library
+
+What we're going to cover
+
+0. An end to end Scikit Learn workflow
+1. Getting the data ready
+2. Choose the right estimator/ algorithm for our problem
+3. Fit the model/ algorithm and use it to make predictions on our data
+4. Evaluating a model
+5. Improve a model
+6. Save and load a trained model
+7. Putting it all together
+
+=========================================================================================
+
+			How to upgrade a package 
+	We can use te following commands to manage dependencies
+First of all I open my anaconda terminal
+Browse to the path that contains your environment 
+conda activate path 	(to activate the path)
+conda list ( List the packages already installed)
+conda list scikit-learn 	# In case I just want to display information related to one package
+conda search scikit-learn   # Search available versions of it
+conda search scikit-learn --info 
+conda uninstall 
+conda update 'name_of_the_package'
+
+
+=======================================================================================
+
+
+Clean Data ===> Transform data ==> Reduce Data
+
+ Computers understand well numbers than words
+Heart Disease ==> 1
+No Heart Disease ==> 0  
+
+----------------------------------
+
+More data= more CPU 
+So it's better to reduce data(that is not relevant )
+
+
+================================================================================
+
+Choosing the right estimator/ algorithm for your problem
+
+Some thhings to note
+* Sklearn refers to machine learning models , algorithms as estimators
+* Classification problem - predicting a category (heart disease or not)
+	* Sometimes you'll see `clf` (short for classifier ) used as a classification estimator
+* Regression problem - predicting a number(selling price of a car)

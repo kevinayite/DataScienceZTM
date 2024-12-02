@@ -1,0 +1,7 @@
+https://numpy.org/doc/1.17/user/quickstart.html
+
+=====================================================
+https://jakevdp.github.io/PythonDataScienceHandbook/02.02-the-basics-of-numpy-arrays.html
+================================================================================
+
+https://jalammar.github.io/visual-numpy/

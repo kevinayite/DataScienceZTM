@@ -1,0 +1,36 @@
+Optional: How machines learn and what's going on behind the scenes?
+Massive effort getting the data ready for use with a machine learning model! This is one of the most important steps in any machine learning project.
+
+Now you've got the data ready, you're about to dive headfirst into writing deep learning code with TensorFlow 2.x.
+
+Since we're focused on writing code first and foremost, these videos are optional but they're here for those who want to start to get an understanding of what goes on behind the scenes.
+
+How Machines Learn
+
+The first is a video called How Machines Learn by GCP Grey on YouTube.
+
+It's a non-technical narrative explaining how some of the biggest tech companies in the world use data to improve their businesses. In short, they're leveraging techniques like the ones you've been learning. Instead of trying to think of every possible rule to code, they collect data and then use machines to figure out the patterns for them.
+
+What actually is a neural network?
+
+You're going to be writing code which builds a neural network (a type of machine learning model) so you might start to wonder, what's going on when you run the code?
+
+When you pass inputs (often data and labels) to a neural network and it figures out patterns between them, how is it doing so?
+
+When it tries to make predictions and gets them wrong, how does it improve itself?
+
+The deep learning series by 3Blue1Brown on YouTube contains a technical deep-dive into what's going on behind the code you're writing.
+
+Be warned though, it isn't for the faint of heart. The videos explain the topics in a beautiful way but it doesn't mean the topics aren't still difficult to comprehend.
+
+If you're up for it, a good idea would be to watch 1 video in the series one day and then another the day after and so on.
+
+Remember, you don't need to know all of these things to get started writing machine learning code. Focus on solving problems first (like we're doing in this project) and then dive deeper when you need to.
+
+And since these videos are optional, feel free to bookmark them for now, continue with the course and come back later!
+
+Links:
+
+(Non-technical) How Machines Learn by GCP Grey: https://www.youtube.com/watch?v=R9OHn5ZF4Uo
+
+(Technical) Deep Learning series by 3Blue1Brown: https://www.youtube.com/watch?v=aircAruvnKk

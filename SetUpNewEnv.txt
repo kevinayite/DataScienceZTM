@@ -1,0 +1,15 @@
+==> conda env list
+==> now we activate a env already preseent :	conda activate C:\Users\kevin\Desktop\sample_project\week1\env
+==> go also in the path that we want to have your environment.yml
+==> conda env export > environment.yml
+
+==> vim environment.yml (To view the content of our yml file) 	notepad environment.yml # we use this because we are windows users
+
+==> conda deactivate
+==> now we go in the directory of the project we want to work on	cd 
+==> conda env create --prefix ./env -f ../environment.yml
+==> conda env create --prefix ./env -f ../environment.yml
+==> conda env create --prefix ./env -f ../Projects/heart-disease-project/environment.yml
+
+==> conda env create --prefix C:\Users\kevin\Desktop\sample_project\Projects\bulldozer-price-regression\env -f C:\Users\kevin\Desktop\sample_project\environment.yml
+

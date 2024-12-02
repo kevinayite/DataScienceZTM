@@ -1,0 +1,6 @@
+Statistics and Mathematics
+As you see, you do not need to have a degree in Mathematics to be a great Data Scientist. If you have finished the course and you are looking to expand your knowledge, or you are simply curious, Daniel and I recommend the below free resources. In our opinion, they are the BEST resources for you to learn these topics and have fun along the way without falling asleep:
+
+Statistics Course https://www.youtube.com/watch?v=zouPoc49xbk&list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr
+
+Mathematics Course https://www.khanacademy.org/math

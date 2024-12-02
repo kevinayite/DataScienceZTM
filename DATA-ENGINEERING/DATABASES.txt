@@ -1,0 +1,14 @@
+==> Relational Databases(Postgres) used to make relations(Read, etc)
+==> NoSQL (Mongo DB): differents machines all working together to have one database
+==> NewSQL 
+- Search Databases
+- Computation Database
+=======================================================================================
+	OLTP & OLAP
+https://techdifferences.com/difference-between-oltp-and-olap.html#google_vignette
+=======================================================================================
+https://www.yugabyte.com/acid/
+======================================================================================
+Learn more about databses
+https://www.khanacademy.org/computing/computer-programming/sql#concept-intro
+
