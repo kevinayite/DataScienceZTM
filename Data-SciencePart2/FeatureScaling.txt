@@ -1,0 +1,68 @@
+Extension: Feature Scaling
+Once your data is all in numerical format, there's one more transformation you'll probably want to do to it.
+
+It's called Feature Scaling.
+
+In other words, making sure all of your numerical data is on the same scale.
+
+For example, say you were trying to predict the sale price of cars and the number of kilometres on their odometers varies from 6,000 to 345,000
+ but the median previous repair cost varies from 100 to 1,700. A machine learning algorithm may have trouble finding patterns in these wide-ranging variables.
+
+To fix this, there are two main types of feature scaling.
+
+Normalization (also called min-max scaling) - This rescales all the numerical values to between 0 and 1, with the lowest value being close to 0 and 
+the highest previous value being close to 1. Scikit-Learn provides functionality for this in the MinMaxScalar class.
+
+
+
+
+
+
+https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.MinMaxScaler.html
+
+
+
+
+
+
+Standardization - This subtracts the mean value from all of the features (so the resulting features have 0 mean). 
+It then scales the features to unit variance (by dividing the feature by the standard deviation). Scikit-Learn provides functionality 
+for this in the StandardScalar class.
+
+
+
+
+
+https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html
+
+
+
+
+
+
+
+
+A couple of things to note.
+
+Feature scaling usually isn't required for your target variable.
+
+Feature scaling is usually not required with tree-based models (e.g. Random Forest) since they can handle varying features.
+
+Extra reading
+
+For further information on this topic, I'd suggest the following resources.
+
+Feature Scaling - why is it required? by Rahul Saini		https://rahul-saini.medium.com/feature-scaling-why-it-is-required-8a93df1af310
+
+Feature Scaling with Scikit-Learn by Ben Alex Keen		https://benalexkeen.com/feature-scaling-with-scikit-learn/
+
+Feature Scaling for Machine Learning: Understanding the Difference Between Normalization vs. Standardization by Aniruddha Bhandari  
+
+ https://www.analyticsvidhya.com/blog/2020/04/feature-scaling-machine-learning-normalization-standardization/
+
+Challenge
+
+After reading up on feature scaling, a good idea would be to practice it on one of the problems you're working on
+ and see how it affects the results. If you find anything interesting, be sure to share it.
+
+Thank you to Sid and Shubhamai for suggesting resources. If you have anything you think should be added, please let us know.
